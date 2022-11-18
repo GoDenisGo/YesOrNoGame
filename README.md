@@ -22,3 +22,4 @@ architecture of the system (how each class behaves and how data is represented i
 - The program could become more robust by checking that the data retrieved from the database is safe. This may be incorporated into the 2nd year project.
 - The code could be modularised; many if statements are nested within a single function. The code is readable but some abstraction may improve future maintainability.
 - Each NodeID from the data.csv file (the first column) could be implicitly calculated, as each ID roughly corresponds to the iterations of linear searches.
+- Scalability; the program doesn't include a native way to change the storyline. This could be fixed by letting the user input their own storyline, though it is unlikely to be added to the 2nd Year project (not part of the scope of the coursework).
