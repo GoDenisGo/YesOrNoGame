@@ -1,0 +1,52 @@
+-2,-2,-2,"[This is not a node, this is an exit code]"
+-1,0,-2,Do you want to try again? Enter 1 for "Yes" or 2 for "No". Pressing 2 will exit the program.
+0,1,29,Is this exam important?
+1,2,25,Do you want to revise for the exam?
+2,3,11,Do you know what to revise?
+3,4,9,Are you going to revise for longer than five minutes?
+4,49,3,Are you telling the truth?
+5,48,6,Do you want to consume the Earth with knowledge and power?
+6,7,44,Sign this Non-disclosure agreement which states that you will not use your superhuman knowledge.
+7,47,8,Do you want to carry on studying?
+8,46,45,Why did you stop? Are you falling asleep?
+9,5,43,Try revising for five minutes. Do you feel the power now?
+10,9,42,Did the resources help?
+11,10,12,Did the course leader leave any resources?
+12,15,13,Do you want to email the lecturers?
+13,15,14,But you don't know what you're doing. Why don't you email them anyway?
+14,39,16,You don't know what you're doing though. Do you want some tea?
+15,2,41,Did the lecturers/professors give you the information that you need?
+16,38,17,Are you hungry instead?
+17,37,18,Are you busy building a time machine?
+18,37,19,Are you lying to me?
+19,36,20,Do you have plans for the evening?
+20,36,35,Do you want to practice your multiplication tables?
+21,36,40,Is the coursework something you want to work on?
+22,21,50,Is the coursework going to help you revise?
+23,22,24,Do you want to finish some coursework first?
+24,50,35,Is the 257th episode of friends on the telly?
+25,23,26,But it's important! Are you sure?
+26,15,27,Are you not sure what to do because you think you're missing something?
+27,41,23,Are you just wasting time?
+28,0,30,Is it more than a month away?
+29,28,32,Don't you want to revise for it anyway?
+30,34,31,Can you be bothered to do it?
+31,0,35,Is there another exam you can revise for?
+32,33,34,Are you sure?
+33,34,35,Shouldn't you get revising then?
+34,-1,-1,Do it now then! What are you waiting for?
+35,-1,-1,Leave it for later then...
+36,-1,-1,Get going then!
+37,-1,-1,Build a space-time reactor. Visit a dinosaur.
+38,-1,-1,Make a sandwich.
+39,-1,-1,Go and make some tea.
+40,-1,-1,Leave it for later...
+41,-1,-1,Revise the things you don't know.
+42,-1,-1,Google it.
+43,-1,-1,Consider your life choices as you ponder the meaning of life.
+45,-1,-1,Keep going until your brain turns into soup. Not literally.
+46,-1,-1,Get some shut-eye. Wake up before the deadline.
+47,-1,-1,Well done. Keep going- woohoo!
+48,-1,-1,You revive Einstein and get to work on a specialised space-time tunnel machine. ETA: 500 years. Oops.
+49,-1,-1,"Okay, I don't believe you but we'll see..."
+50,-1,-1,Stop procrastinating.
